@@ -1,6 +1,8 @@
 # simple-transport-protocol
 Implementation of a simple version of TCP over UDP including a packet drop/delay/duplicate simulator.
 
+
+## Features
 The sender and receiver programs implement these features:
 - Three-way handshake for connection establishment
 - Four-segment connection termination
