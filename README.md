@@ -1,5 +1,5 @@
 # simple-transport-protocol
-Implementation of a simple version of TCP over UDP including a packet drop/delay/duplicate simulator.
+Implementation of a simple version of TCP over UDP with a packet error simulator.
 
 
 ## Features
